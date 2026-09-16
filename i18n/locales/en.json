@@ -1,0 +1,545 @@
+{
+  "site": {
+    "name": "Pro du Tuyau",
+    "phone": "438 399 3014",
+    "phoneHref": "tel:+14383993014",
+    "phoneDisplay": "438 399 3014",
+    "tagline": "Plumbing, heating and peace of mind in Laval and across Greater Montreal."
+  },
+  "nav": {
+    "utility": "24/7 Emergencies · Laval, Montreal and surrounding areas",
+    "plumbing": "Plumbing",
+    "heating": "Heating & A/C",
+    "commercial": "Commercial",
+    "areas": "Service Areas",
+    "financing": "Financing",
+    "schedule": "Book an Appointment",
+    "contact": "Contact",
+    "book": "Book an Appointment",
+    "backToTop": "Back to top",
+    "menu": "Menu",
+    "about": "About us"
+  },
+  "hero": {
+    "kicker": "Plumbing · Heating · Emergencies",
+    "headlineLine1": "Your pipes just",
+    "headlineLine2": "found their pro.",
+    "tagline": "Plumbing, heating and peace-of-mind professionals in Laval and across Greater Montreal.",
+    "ctaSchedule": "Book an Appointment",
+    "ctaPhone": "438 399 3014",
+    "open": "Open",
+    "open247": "24/7"
+  },
+  "trustBar": {
+    "since": "In business since 1994",
+    "pill": "ONE CALL. DONE.",
+    "areas": "Laval, Montreal and surrounding areas"
+  },
+  "ratings": {
+    "googleScore": "4.9",
+    "googleCount": "214+ reviews (demo)",
+    "facebookScore": "4.8",
+    "facebookCount": "96+ reviews (demo)",
+    "bbbRating": "A+",
+    "bbbCount": "Rating (demo)",
+    "pill": "ONE CALL. DONE."
+  },
+  "services": {
+    "title": "OUR PLUMBING SERVICES",
+    "items": {
+      "reparation": {
+        "label": "Repairs",
+        "desc": "Residential plumbing repairs: faucets, toilets, sinks, vanities and fittings."
+      },
+      "fuites": {
+        "label": "Leaks",
+        "desc": "Detection and repair of leaks, under the sink or under the slab, no hacking."
+      },
+      "chauffe-eau": {
+        "label": "Water Heaters",
+        "desc": "Repair, replacement and installation of tank and tankless water heaters."
+      },
+      "salles-de-bain": {
+        "label": "Bathrooms",
+        "desc": "Full bathroom renovations: plumbing, rough-in and finishing."
+      },
+      "drainage": {
+        "label": "Drainage",
+        "desc": "Unclogging, hydro-jetting and maintenance of drains, sewers and sewer lines."
+      },
+      "urgences": {
+        "label": "24/7 Emergencies",
+        "desc": "An emergency in the middle of the night? Our crew shows up 24/7, 365 days a year."
+      },
+      "installation": {
+        "label": "Installations",
+        "desc": "Installation of faucets, fixtures, softeners and new plumbing systems."
+      }
+    }
+  },
+  "areas": {
+    "title": "SERVICE AREAS",
+    "subtitle": "From Laval to the South Shore and the North Shore.",
+    "cities": [
+      "Laval",
+      "Montreal",
+      "Longueuil",
+      "Brossard",
+      "Terrebonne",
+      "Saint-Jérôme",
+      "Pointe-Claire",
+      "Dorval",
+      "Repentigny",
+      "Granby",
+      "Saint-Bruno",
+      "Vaudreuil"
+    ]
+  },
+  "testimonials": {
+    "watermark": "WHAT OUR CLIENTS SAY",
+    "badge1": "WORK GUARANTEED",
+    "badge2": "SUPERIOR SERVICE",
+    "badge3": "DEDICATED TO CLIENTS",
+    "badge4": "QUALIFIED TEAM",
+    "reputation": {
+      "title": "TRUST IS EARNED ONE JOB AT A TIME.",
+      "text": "Since 1994, homeowners and property managers have trusted us with everything from a small leak to a full commercial job. Our reviews? Just a reflection of how we treat our clients.",
+      "cta": "See all reviews"
+    },
+    "items": [
+      {
+        "quote": "On time, clean work and clear explanations. The leak under the sink was fixed in under two hours.",
+        "name": "Marc D.",
+        "days": "2 days"
+      },
+      {
+        "quote": "Our water heater died on a Sunday night. The crew was there by early afternoon and everything was fixed before dinner.",
+        "name": "Sophie L.",
+        "days": "4 days"
+      },
+      {
+        "quote": "Very professional, very punctual. The quote was matched to the dollar and the site was left spotless.",
+        "name": "Karim B.",
+        "days": "1 week"
+      },
+      {
+        "quote": "Second bathroom they've renovated for us. Same care and rigor every time. I recommend them without hesitation.",
+        "name": "Isabelle R.",
+        "days": "2 weeks"
+      },
+      {
+        "quote": "A root had taken over our main sewer line. Video inspection, clearing, explanations. Real pro work.",
+        "name": "Jean-Francois T.",
+        "days": "3 weeks"
+      }
+    ],
+    "ctaCardText": "An emergency, any hour of the day? Our on-call crew answers 24/7, 365 days a year."
+  },
+  "financing": {
+    "pill": "BUDGET TO PLAN AROUND?",
+    "title": "WE HAVE A SOLUTION",
+    "text": "A major repair or a bathroom renovation can be scary at the time of payment. We work with financing partners to turn your project into simple monthly payments. Let's talk about your project: we'll show you your options, no pressure.",
+    "cta": "Request Financing"
+  },
+  "regional": {
+    "badges": [
+      "24/7 EMERGENCY",
+      "LICENSED RBQ",
+      "$2M INSURED",
+      "PREMIUM SERVICE"
+    ],
+    "title": "EXPERT PLUMBERS IN LAVAL AND MONTREAL",
+    "text": "From Laval to Montreal, our team brings decades of experience to every job. Call us today and let us prove it.",
+    "cta": "438 399 3014"
+  },
+  "footer": {
+    "hours": "HOURS",
+    "open": "Open 24/7",
+    "servicesTitle": "SERVICES",
+    "areasTitle": "SERVICE AREAS",
+    "companyTitle": "COMPANY",
+    "contactTitle": "CONTACT",
+    "rbq": "Licensed RBQ · $2M Insured",
+    "about": "About Us",
+    "contact": "Contact",
+    "schedule": "Book an Appointment",
+    "faq": "FAQ",
+    "copyright": "© 2026 Pro du Tuyau — All rights reserved.",
+    "demoNote": "Demo website — fictional company.",
+    "areas": "Service Areas"
+  },
+  "cityCards": {
+    "title": "OUR CREWS IN THE AREA",
+    "items": [
+      {
+        "name": "Laval",
+        "address": "2400 Boul. des Laurentides, Laval"
+      },
+      {
+        "name": "Montreal",
+        "address": "1180 Esplanade Ave., Montreal"
+      },
+      {
+        "name": "Longueuil",
+        "address": "150 Bishop St., Longueuil"
+      },
+      {
+        "name": "Brossard",
+        "address": "1025 Harrington St., Brossard"
+      },
+      {
+        "name": "Pointe-Claire",
+        "address": "2000 Boul. des Laurentides, Pointe-Claire"
+      },
+      {
+        "name": "Terrebonne",
+        "address": "585 Boul. des Patriotes, Terrebonne"
+      }
+    ]
+  },
+  "servicePage": {
+    "back": "Back to services",
+    "sidebar": {
+      "services": "SERVICES",
+      "resources": "RESOURCES",
+      "about": "About Us",
+      "contact": "Contact",
+      "faq": "FAQ",
+      "areas": "Service Areas",
+      "schedule": "Book an Appointment"
+    },
+    "bookOnline": "Book online",
+    "quoteLabel": "Client testimonial",
+    "faqTitle": "FREQUENTLY ASKED QUESTIONS",
+    "cta": {
+      "title": "YOUR PROJECT STARTS WITH A PHONE CALL",
+      "text": "Tell us about your problem or your project: we call you back, we assess on site and we give you a clear quote, no surprises.",
+      "btn": "Book an Appointment"
+    },
+    "services": {
+      "reparation": {
+        "heroTitle": "PLUMBING REPAIRS IN MONTREAL",
+        "intro": "A dripping faucet, a running toilet, a sink that drains like a colander: small plumbing problems quickly become big headaches. Our plumbers do the dirty work so you never have to think about it again.",
+        "section1": {
+          "h": "THE REPAIRS WE DO EVERY WEEK",
+          "p": "Cartridge and washer replacements, toilet repairs, sinks and vanities, copper and PEX fittings, shut-off valves, P-traps: most repair calls are handled in a single visit, with the right parts in the truck."
+        },
+        "section2": {
+          "h": "WHY NOT WAIT?",
+          "p": "A small leak can damage hardwood floors, drywall or a ceiling before you notice it. Every drop counts: the earlier we fix it, the less it costs. Call us the moment you hear water where there should be none."
+        },
+        "story": {
+          "title": "WHAT OUR CLIENTS SAY",
+          "text": "A client in Laval called us about a vanity that stopped draining. Opening the P-trap, we found a piece of jewellery blocking the line. Fixed in 20 minutes, and she got to keep her breakfast warm.",
+          "quote": "ONE CALL, ONE PRO, AND THE PROBLEM WAS GONE BY LATE AFTERNOON.",
+          "attribution": "— Client in Laval"
+        },
+        "faq": [
+          {
+            "q": "How long does a standard repair take?",
+            "a": "Most residential repairs take between 30 minutes and two hours. We give you an estimate on arrival and we don't touch anything before your go-ahead."
+          },
+          {
+            "q": "Do your plumbers come with parts in the truck?",
+            "a": "Yes. Our trucks carry the most common parts: cartridges, washers, valves, P-traps, fittings. In the great majority of cases, the repair is finished in a single visit."
+          },
+          {
+            "q": "What should I do if my water is off while waiting?",
+            "a": "Shut off the main stop valve, ideally near the meter, and drain the remaining water. If you can't find it, call us: we'll walk you through it on the phone until we arrive."
+          },
+          {
+            "q": "Do you work on weekends and holidays?",
+            "a": "Yes. Our team is available 24/7, 365 days a year, including holidays. For emergencies, the earlier you call, the sooner we're at your door."
+          }
+        ]
+      },
+      "fuites": {
+        "heroTitle": "LEAK REPAIR IN LAVAL AND MONTREAL",
+        "intro": "A stain on the ceiling, a wall changing colour, a meter turning while nothing is on: a leak is somewhere. Our priority is to find it — then repair it without opening up the whole house.",
+        "section1": {
+          "h": "DETECTION WITHOUT THE HACKING",
+          "p": "We start with the simple tests: system pressure, the meter, camera under the sink. When the leak is hidden in a wall or under a slab, we use camera detection and infrared to locate it to the centimetre before cutting anything."
+        },
+        "section2": {
+          "h": "DURABLE REPAIRS, NOT A BAND-AID",
+          "p": "Replacing a worn fitting, sealing a weeping joint, redoing a section of PEX or copper pipe: we repair the cause, not the stain. And we show you exactly what we did, with photos if needed."
+        },
+        "story": {
+          "title": "A LEAK UNDER THE SLAB, FOUND WITHOUT BREAKING IT",
+          "text": "A homeowner in Sainte-Rose had damp basement walls. Instead of breaking the slab at random, we ran a pressure test section by section. The leak was in a branch connection: repaired in under three hours, one single hole in the slab.",
+          "quote": "THEY FOUND THE LEAK WITHOUT DESTROYING MY BASEMENT. THAT'S RARE.",
+          "attribution": "— Homeowner in Sainte-Rose"
+        },
+        "faq": [
+          {
+            "q": "How do I know if I have a hidden leak?",
+            "a": "Classic signs: meter turning with no use, damp stains, mould, dropping water pressure, the sound of running water in the walls. Any one of these is worth a call."
+          },
+          {
+            "q": "Is leak detection expensive?",
+            "a": "The diagnosis is done before any work, and you get a firm price for the repair before we start. If the leak isn't one for us to fix (for example on the municipal side), we tell you right away."
+          },
+          {
+            "q": "Can we make sure the leak doesn't come back?",
+            "a": "In almost all cases, yes: we replace the worn section or fitting rather than just re-tightening it. We also explain what caused the leak so you can watch the sensitive spots."
+          },
+          {
+            "q": "What should I do while waiting for the crew?",
+            "a": "Shut off the local stop valve (or the main one), place a bucket under the leak and wipe up the rest. If water is seeping into a wall or ceiling, cut the power to the affected area."
+          }
+        ]
+      },
+      "chauffe-eau": {
+        "heroTitle": "WATER HEATERS: REPAIR AND INSTALLATION",
+        "intro": "A water heater that fails means the whole house is waiting. We repair, replace and install — tank, tankless or instant hot water — with a clear quote before touching anything.",
+        "section1": {
+          "h": "REPAIR OR REPLACE: WE TELL IT STRAIGHT",
+          "p": "A sacrificial anode to replace, a pressure valve to change, a tired heating element: some repairs are worth it. But a 15-year-old tank corroding from the inside isn't going to wait for the right moment: we honestly tell you when it's time to replace."
+        },
+        "section2": {
+          "h": "A CLEAN INSTALLATION, IN ONE DAY",
+          "p": "Removal of the old unit, new fittings, shut-off valve, anode, shimming, pressure test: we handle everything. And if your setup allows it, we'll show you the tankless option to cut your water and energy bills."
+        },
+        "story": {
+          "title": "A SUNDAY NIGHT WITHOUT HOT WATER",
+          "text": "A family's water heater in Laval leaked in the middle of the evening. The on-call crew left with a tank in the truck: installation finished before the kids went to bed, and the family showered normally the next morning.",
+          "quote": "CALLED ON A SUNDAY, SHOWERED THE NEXT MORNING. UNBELIEVABLE.",
+          "attribution": "— Family in Laval"
+        },
+        "faq": [
+          {
+            "q": "What's the average lifespan of a water heater?",
+            "a": "Between 10 and 15 years, depending on usage and water hardness. Past 12, a healthy anode and yearly maintenance extend its life, but you should be prepared for the replacement."
+          },
+          {
+            "q": "Tank or tankless: which should I choose?",
+            "a": "A tank unit remains the simplest and most affordable choice up front. Tankless heats on demand: more space, more efficiency, but a higher initial investment. We assess your setup before recommending."
+          },
+          {
+            "q": "Can you install in a tight space?",
+            "a": "Yes. We size the unit to the available space and adapt the fittings. That's exactly why we visit before ordering the equipment."
+          },
+          {
+            "q": "Who removes the old water heater?",
+            "a": "We do. Removal and disposal of the old unit are part of the job, with no hidden fees."
+          }
+        ]
+      },
+      "salles-de-bain": {
+        "heroTitle": "BATHROOM RENOVATIONS IN MONTREAL",
+        "intro": "A bathroom is 80% plumbing and 20% style. We handle both: demolition, new fixtures, rough-in, drain, and a clean site every evening. You pick the style, we handle the pipes.",
+        "section1": {
+          "h": "WHAT'S INCLUDED IN OUR WORK",
+          "p": "Relocating or replacing connections, installing the tub or shower base, toilet, sink and fixtures, floor drains, P-traps, shut-off valves, level and drain slope: we check everything, from the first fitting to the final water test."
+        },
+        "section2": {
+          "h": "AN ORGANIZED SITE, ZERO SURPRISES",
+          "p": "Before we start, we walk through every step with you and lock in the quote. During the job, we cover the floors, protect the access points and sweep every evening. You always know where we are — and what happens tomorrow."
+        },
+        "story": {
+          "title": "A FAMILY BATHROOM, RENOVATED IN TWO WEEKS",
+          "text": "A couple in Brossard wanted to modernize the main bathroom: new shower base, new toilet, new vanity. We moved the connections, adjusted the drain slope and installed the whole set in two weeks, on the promised schedule.",
+          "quote": "TWO WEEKS, ZERO SURPRISES, AND A BATHROOM WE LOVE.",
+          "attribution": "— Couple in Brossard"
+        },
+        "faq": [
+          {
+            "q": "How long does a bathroom renovation take?",
+            "a": "It depends on the scope: a few days for a fixture replacement, two or three weeks for a full renovation. We lock the schedule into the quote, and we keep it."
+          },
+          {
+            "q": "Do I need to choose all the fixtures before work starts?",
+            "a": "It's ideal. We guide you through the selection (dimensions, fixture types, drainage) to avoid surprises. If you haven't decided yet, we'll give you concrete reference points."
+          },
+          {
+            "q": "Do you handle demolition and debris removal?",
+            "a": "Yes, demolition and debris removal are included in the quote. The site is left clean every evening."
+          },
+          {
+            "q": "What if you find a problem along the way?",
+            "a": "We stop, show you, explain the cost and wait for your decision. No extra work without your written approval."
+          }
+        ]
+      },
+      "drainage": {
+        "heroTitle": "UNCLOGGING AND DRAINAGE IN MONTREAL",
+        "intro": "A sink that drains by the drop, a toilet that gurgles, a sewer smell in the basement: your drainage is talking to you. We clean, inspect and repair drains, sinks and sewer lines, with the right tool for every job.",
+        "section1": {
+          "h": "CLEANING, INSPECTION, REPAIR",
+          "p": "A mechanical auger for simple clogs, hydro-jetting for grease and mineral buildup, video inspection to see exactly what's happening in the line. We don't guess: we look, then we repair what needs it."
+        },
+        "section2": {
+          "h": "ROOTS: OUR WORST ENEMY (AND YOURS)",
+          "p": "In the older neighbourhoods of Montreal and Laval, roots find the smallest fitting. We cut them, clean the section and repair the entry point so the problem doesn't come back next season."
+        },
+        "story": {
+          "title": "A CLOGGED MAIN SEWER, CLEARED IN ONE VISIT",
+          "text": "The basement of a house in Dollard was flooded after a rain. Video inspection: a root had taken over the main connection. Hydro-jetting, root cutting and fitting repair: the water was gone, and the client had a dry basement the same day.",
+          "quote": "FLOODED BASEMENT IN THE MORNING, DRY BY EVENING. THAT'S SERVICE.",
+          "attribution": "— Homeowner in Dollard-des-Ormeaux"
+        },
+        "faq": [
+          {
+            "q": "What's the difference between a clogged drain and a damaged line?",
+            "a": "A clogged drain empties slowly and often clears with a mechanical auger. A damaged line (collapse, root intrusion, broken fitting) causes backups, persistent odours and problems that keep coming back. A camera inspection gives a clear answer."
+          },
+          {
+            "q": "Will hydro-jetting damage old pipes?",
+            "a": "Properly set up, no. We adjust the pressure to the line's diameter and age. For very tired clay lines, we tell you in advance and suggest the safest option."
+          },
+          {
+            "q": "How often should I maintain my drainage?",
+            "a": "Every two to three years for a residence, more often if you have mature trees near the connections. Regular maintenance costs less than a middle-of-the-night emergency."
+          },
+          {
+            "q": "What should I never pour down a drain?",
+            "a": "Kitchen grease, cotton balls, solvents and harsh chemical « drain openers ». Hot water and regular maintenance are almost always enough — and if not, call us."
+          }
+        ]
+      },
+      "urgences": {
+        "heroTitle": "24/7 PLUMBING EMERGENCIES",
+        "intro": "A pipe bursting at 2 a.m., a sewer backing up into the shower, water where there should be none: emergencies don't wait for business hours. Neither do we. Our on-call crew shows up 24/7, 365 days a year.",
+        "section1": {
+          "h": "WHAT'S REALLY AN EMERGENCY",
+          "p": "A major leak, a burst pipe, active water damage, a sewer backup, a leaking water heater, total loss of hot water: those are emergencies. We prioritize calls by severity and we honestly tell you if your situation can wait until morning — or can't."
+        },
+        "section2": {
+          "h": "WHAT TO DO WHILE WAITING FOR THE CREW",
+          "p": "Shut off the main stop valve (near the water meter), cut power to the wet area, and remove water if you can do it safely. And call us: a plumber on the phone can often contain the damage until we arrive."
+        },
+        "story": {
+          "title": "A BURST PIPE AT 2 A.M., CONTAINED IN 45 MINUTES",
+          "text": "A branch fitting burst in a condo in Laval, a cold Tuesday morning in January. The on-call crew arrived in 40 minutes: valve closed, section replaced, system back under pressure. The water damage stopped before it could do serious damage.",
+          "quote": "CALLED AT 2 A.M., FIXED BY 3. I'LL SLEEP BETTER THIS WINTER.",
+          "attribution": "— Condo manager in Laval"
+        },
+        "faq": [
+          {
+            "q": "Are there after-hours or weekend call-out fees?",
+            "a": "Our emergency rate is applied transparently and announced before the crew leaves. We tell you clearly on the phone, no surprises on the invoice."
+          },
+          {
+            "q": "How fast does the crew arrive?",
+            "a": "Depending on your location in Greater Montreal, count on 30 to 90 minutes in general. We give you a precise arrival window as soon as a truck is rolling."
+          },
+          {
+            "q": "Something is leaking, should I cut the power?",
+            "a": "Yes, if the water reaches an outlet, a panel or an electrical appliance. Cut the power to the affected area at the breaker, then call us."
+          },
+          {
+            "q": "Do you work during winter storms?",
+            "a": "Yes. The worst winter days are often our busiest: frozen pipes don't wait for the thaw. We stay available, and we recommend insulating your exposed pipes before the next cold snap."
+          }
+        ]
+      },
+      "installation": {
+        "heroTitle": "RESIDENTIAL PLUMBING INSTALLATION",
+        "intro": "New faucets, a water softener, a filtration system, appliance connections or a new-build job: a good installation shows for years. We install straight, we test, we show you.",
+        "section1": {
+          "h": "THE INSTALLATIONS WE DO EVERY DAY",
+          "p": "Faucets, sinks, toilets, washers and dryers, water heaters, softeners and water filters, sump pumps, copper and PEX fittings. For a new build, we plan the layout with your trades so every access point is in the right place."
+        },
+        "section2": {
+          "h": "TESTED, DOCUMENTED, GUARANTEED",
+          "p": "Every installation is pressure-tested before it's covered or closed in. You get a summary of the work and the applicable warranties. If a question comes up in the following weeks, a simple phone call is all it takes."
+        },
+        "story": {
+          "title": "A WATER SOFTENER, INSTALLED IN ONE MORNING",
+          "text": "A couple in Vaudreuil-Dorion wanted a softener to protect their plumbing and their new washing machine. Full installation — connection, drain, valve, hardness setting — finished in one morning, with a walkthrough of the controls.",
+          "quote": "INSTALLED IN ONE MORNING, EXPLAINED IN SIMPLE TERMS. RARE THESE DAYS.",
+          "attribution": "— Couple in Vaudreuil-Dorion"
+        },
+        "faq": [
+          {
+            "q": "Do you work with the other contractors on a job site?",
+            "a": "Absolutely. We plan the plumbing layout with the electricians and foremen, and we adapt to the site schedule. That's one of the things we most enjoy about commercial work."
+          },
+          {
+            "q": "What materials do you use?",
+            "a": "Copper, PEX and PVC depending on the application and the codes in force. We explain the advantages of each option and let you choose within the scope of the quote."
+          },
+          {
+            "q": "Are your installations guaranteed?",
+            "a": "Yes. We hand you the manufacturer's and the installation warranties, in writing, at the completion of the job."
+          },
+          {
+            "q": "Can you install while the house is occupied?",
+            "a": "Yes, that's actually most of our work. We protect the floors, keep the dust down and clean every evening. For bigger jobs, we schedule around family life."
+          }
+        ]
+      }
+    }
+  },
+  "about": {
+    "heroTitle": "ABOUT PRO DU TUYAU",
+    "storyKicker": "SINCE 1994, THE SAME FAMILY, THE SAME STANDARDS",
+    "story1": "Pro du Tuyau was born in Laval in 1994, with a truck, two toolboxes and a simple conviction: a job well done speaks for itself, and a happy client brings more. Thirty years later, the family is still at the helm, and the conviction is intact.",
+    "story2": "Today, our team of licensed plumbers covers Laval, Montreal, the South Shore and the North Shore. Residential and commercial, from a small repair to a full job, we apply the same rule: we arrive on time, we explain before we start, and we leave the site clean.",
+    "block1": {
+      "title": "LICENSED AND INSURED TEAM",
+      "text": "Every plumber on the team is licensed and insured. We work to current standards, respect the codes and hand you the paperwork that goes with it. Your insurance and your peace of mind, we handle those."
+    },
+    "block2": {
+      "title": "A FAMILY BUSINESS",
+      "text": "Pro du Tuyau is a family business, and it shows: we answer the phone, we remember your name, and we come back to check our work without being asked. Thank you to those who have trusted us for decades."
+    },
+    "ctaTitle": "LET'S TALK ABOUT YOUR PROJECT",
+    "ctaText": "A question, a project, an emergency? We answer fast, and we always tell you the truth about the work.",
+    "ctaBtn": "Book an Appointment"
+  },
+  "schedule": {
+    "heroTitle": "BOOK AN APPOINTMENT",
+    "helpPill": "WE'RE HERE FOR YOU",
+    "panelTitle": "PICK A TIME THAT WORKS FOR YOU",
+    "intro": "Choose a day and a time slot, then leave your contact info. We'll confirm your appointment by phone or email within the day.",
+    "selectFor": "Select a time for",
+    "slots": [
+      "8 a.m. – 10 a.m.",
+      "10 a.m. – 12 p.m.",
+      "1 p.m. – 3 p.m.",
+      "3 p.m. – 5 p.m.",
+      "5 p.m. – 7 p.m."
+    ],
+    "form": {
+      "title": "YOUR CONTACT INFO",
+      "name": "Full name",
+      "phone": "Phone",
+      "email": "Email",
+      "service": "Service requested",
+      "message": "Message (optional)",
+      "submit": "Confirm the appointment",
+      "selected": "Appointment on {day} from {slot}",
+      "success": "Thank you! Your appointment request has been received. We'll contact you within the day to confirm.",
+      "error": "Something went wrong. Try again or call us at 438 399 3014.",
+      "phoneNote": "Emergency? Call 438 399 3014 directly."
+    }
+  },
+  "contact": {
+    "heroTitle": "CONTACT",
+    "intro": "A question, a quote, an emergency? The simplest thing is to call. We answer 24/7, and we call you back if we're on a job site.",
+    "infoTitle": "INFORMATION",
+    "infoPhone": "Phone",
+    "infoHours": "Hours",
+    "infoHoursValue": "Open 24/7 — 365 days a year",
+    "infoAreas": "Service Areas",
+    "infoAreasValue": "Laval, Montreal, Longueuil, Brossard and Greater Montreal",
+    "formTitle": "WRITE TO US",
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Send the message",
+      "success": "Thank you! Your message has been sent. We'll get back to you as soon as possible.",
+      "error": "Something went wrong. Try again or call us at 438 399 3014."
+    }
+  },
+  "notFound": {
+    "kicker": "404",
+    "title": "THIS PIPE LEADS NOWHERE",
+    "text": "The page you're looking for no longer exists, or the link is misplumbed. Take the right pipe:",
+    "ctaHome": "Back to home",
+    "ctaSchedule": "Book an Appointment"
+  }
+}

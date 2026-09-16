@@ -1,0 +1,545 @@
+{
+  "site": {
+    "name": "Pro du Tuyau",
+    "phone": "438 399 3014",
+    "phoneHref": "tel:+14383993014",
+    "phoneDisplay": "438 399 3014",
+    "tagline": "Plomberie, chauffage et paix d'esprit à Laval et dans le grand Montréal."
+  },
+  "nav": {
+    "utility": "Urgences 24/7 · Laval, Montréal et les environs",
+    "plumbing": "Plomberie",
+    "heating": "Chauffage & Clim.",
+    "commercial": "Commercial",
+    "areas": "Aires de service",
+    "financing": "Financement",
+    "schedule": "Prendre rendez-vous",
+    "contact": "Contact",
+    "book": "Prendre rendez-vous",
+    "backToTop": "Haut de page",
+    "menu": "Menu",
+    "about": "À propos"
+  },
+  "hero": {
+    "kicker": "Plomberie · Chauffage · Urgences",
+    "headlineLine1": "Vos tuyaux ont",
+    "headlineLine2": "trouvé leur pro.",
+    "tagline": "Des professionnels de la plomberie, du chauffage et de la paix d'esprit à Laval et dans le grand Montréal.",
+    "ctaSchedule": "Prendre rendez-vous",
+    "ctaPhone": "438 399 3014",
+    "open": "Ouvert",
+    "open247": "24/7"
+  },
+  "trustBar": {
+    "since": "En activité depuis 1994",
+    "pill": "UN APPEL, C'EST RÉGLÉ.",
+    "areas": "Laval, Montréal et les environs"
+  },
+  "ratings": {
+    "googleScore": "4,9",
+    "googleCount": "214+ avis (démo)",
+    "facebookScore": "4,8",
+    "facebookCount": "96+ avis (démo)",
+    "bbbRating": "A+",
+    "bbbCount": "Cote (démo)",
+    "pill": "UN APPEL, C'EST RÉGLÉ."
+  },
+  "services": {
+    "title": "NOS SERVICES DE PLOMBERIE",
+    "items": {
+      "reparation": {
+        "label": "Réparation",
+        "desc": "Réparation de plomberie résidentielle : robinets, toilettes, éviers, lavabos et raccords."
+      },
+      "fuites": {
+        "label": "Fuites",
+        "desc": "Détection et réparation des fuites, sous-évier comme sous dalle, sans bricolage."
+      },
+      "chauffe-eau": {
+        "label": "Chauffe-eau",
+        "desc": "Réparation, remplacement et installation de chauffe-eau conventionnels et instantanés."
+      },
+      "salles-de-bain": {
+        "label": "Salles de bain",
+        "desc": "Rénovations complètes de salles de bain : plomberie, fixation et finition."
+      },
+      "drainage": {
+        "label": "Drainage",
+        "desc": "Désobstruction, hydrojetage et entretien des drains, égoûts et lignes d'égout."
+      },
+      "urgences": {
+        "label": "Urgences 24/7",
+        "desc": "Une urgence en pleine nuit ? Notre équipe se déplace 24 h/24, 7 j/7."
+      },
+      "installation": {
+        "label": "Installation",
+        "desc": "Installation de robinetterie, fixtures, adoucisseurs et systèmes de plomberie neufs."
+      }
+    }
+  },
+  "areas": {
+    "title": "AIRES DE SERVICE",
+    "subtitle": "De Laval jusqu'à la Rive-Sud et la Rive-Nord.",
+    "cities": [
+      "Laval",
+      "Montréal",
+      "Longueuil",
+      "Brossard",
+      "Terrebonne",
+      "Saint-Jérôme",
+      "Pointe-Claire",
+      "Dorval",
+      "Repentigny",
+      "Granby",
+      "Saint-Bruno",
+      "Vaudreuil"
+    ]
+  },
+  "testimonials": {
+    "watermark": "CE QUE DISENT NOS CLIENTS",
+    "badge1": "TRAVAUX GARANTIS",
+    "badge2": "SERVICE SUPÉRIEUR",
+    "badge3": "DÉDIE À NOS CLIENTS",
+    "badge4": "ÉQUIPE QUALIFIÉE",
+    "reputation": {
+      "title": "LA CONFIANCE, ON LA GAGNE UN TRAVAIL À LA FOIS.",
+      "text": "Depuis 1994, propriétaires et gestionnaires nous confient leur plomberie, de la petite fuite au chantier commercial. Nos avis ? Un simple reflet de la façon dont on traite nos clients.",
+      "cta": "Voir tous les avis"
+    },
+    "items": [
+      {
+        "quote": "Arrivés à l'heure, travail propre et explications claires. La fuite sous l'évier était réglée en moins de deux heures.",
+        "name": "Marc D.",
+        "days": "2 jours"
+      },
+      {
+        "quote": "Notre chauffe-eau nous a lâchés un dimanche soir. L'équipe était sur place en après-midi et tout était réparé avant le dîner.",
+        "name": "Sophie L.",
+        "days": "4 jours"
+      },
+      {
+        "quote": "Très professionnelle, très ponctuelle. Le devis a été respecté au dollar près et le chantier laissé propre.",
+        "name": "Karim B.",
+        "days": "1 semaine"
+      },
+      {
+        "quote": "Deuxième salle de bain qu'ils nous rénovent. Chaque fois, le même soin et la même rigueur. Je recommande sans hésiter.",
+        "name": "Isabelle R.",
+        "days": "2 semaines"
+      },
+      {
+        "quote": "Une racine avait envahi notre égout principal. Inspection vidéo, désobstruction, explications. Un vrai travail de pro.",
+        "name": "Jean-Francois T.",
+        "days": "3 semaines"
+      }
+    ],
+    "ctaCardText": "Une urgence, à toute heure ? Notre équipe de garde vous répond 24/7, 365 jours par année."
+  },
+  "financing": {
+    "pill": "UN BUDGET À PLANNER ?",
+    "title": "ON A UNE SOLUTION",
+    "text": "Une réparation majeure ou une rénovation de salle de bain peut faire peur au moment du paiement. Nous travaillons avec des partenaires de financement pour transformer vos travaux en versements mensuels simples. Parlons de votre projet : on vous montre vos options sans pression.",
+    "cta": "Demander un financement"
+  },
+  "regional": {
+    "badges": [
+      "URGENCE 24/7",
+      "LICENCIÉ RBQ",
+      "ASSURÉ 2 M $",
+      "SERVICE PREMIUM"
+    ],
+    "title": "DES PLOMBIERS EXPERTS À LAVAL ET MONTRÉAL",
+    "text": "De Laval à Montréal, notre équipe apporte des décennies d'expérience à chaque travail. Appelez-nous aujourd'hui et laissez-nous vous le prouver.",
+    "cta": "438 399 3014"
+  },
+  "footer": {
+    "hours": "HORAIRE",
+    "open": "Ouvert 24/7",
+    "servicesTitle": "SERVICES",
+    "areasTitle": "AIRES DE SERVICE",
+    "companyTitle": "ENTREPRISE",
+    "contactTitle": "CONTACT",
+    "rbq": "Licencié RBQ · Assuré 2 M $",
+    "about": "À propos",
+    "contact": "Contact",
+    "schedule": "Prendre rendez-vous",
+    "faq": "FAQ",
+    "copyright": "© 2026 Pro du Tuyau — Tous droits réservés.",
+    "demoNote": "Site de démonstration — entreprise fictive.",
+    "areas": "Aires de service"
+  },
+  "cityCards": {
+    "title": "NOS ÉQUIPES EN RÉGION",
+    "items": [
+      {
+        "name": "Laval",
+        "address": "2400, boul. des Laurentides, Laval"
+      },
+      {
+        "name": "Montréal",
+        "address": "1180, av. de l'Esplanade, Montréal"
+      },
+      {
+        "name": "Longueuil",
+        "address": "150, rue Bishop, Longueuil"
+      },
+      {
+        "name": "Brossard",
+        "address": "1025, rue Harrington, Brossard"
+      },
+      {
+        "name": "Pointe-Claire",
+        "address": "2000, boul. des Laurentides, Pointe-Claire"
+      },
+      {
+        "name": "Terrebonne",
+        "address": "585, boul. des Patriotes, Terrebonne"
+      }
+    ]
+  },
+  "servicePage": {
+    "back": "Retour aux services",
+    "sidebar": {
+      "services": "SERVICES",
+      "resources": "RESSOURCES",
+      "about": "À propos",
+      "contact": "Contact",
+      "faq": "FAQ",
+      "areas": "Aires de service",
+      "schedule": "Prendre rendez-vous"
+    },
+    "bookOnline": "Prendre rendez-vous en ligne",
+    "quoteLabel": "Témoignage client",
+    "faqTitle": "QUESTIONS FRÉQUEMMENT POSÉES",
+    "cta": {
+      "title": "VOTRE PROJET COMMENCE PAR UN COUP DE FIL",
+      "text": "Décrivez-nous votre problème ou votre projet : on vous rappelle, on évalue sur place et on vous donne un devis clair, sans surprise.",
+      "btn": "Prendre rendez-vous"
+    },
+    "services": {
+      "reparation": {
+        "heroTitle": "RÉPARATION DE PLOMBERIE À MONTRÉAL",
+        "intro": "Un robinet qui goutte, une toilette qui fuit, un évier qui se vide comme une passoire : les petits problèmes de plomberie deviennent vite de gros maux de tête. Nos plombiers font le sale boulot pour que vous n'ayez plus à y penser.",
+        "section1": {
+          "h": "LES RÉPARATIONS QU'ON FAIT CHAQUE SEMAINE",
+          "p": "Remplacement de cartouches et de joints, réparation de toilettes, éviers et lavabos, raccords de cuivre et de PEX, vannes d'arrêt, siphons : la plupart des appels de réparation sont réglés en une seule visite, avec les bonnes pièces au camion."
+        },
+        "section2": {
+          "h": "POURQUOI NE PAS ATTENDRE ?",
+          "p": "Une fuite minime peut endommager un plancher en bois, un mur de plâtre ou un plafonnier avant que vous ne le remarquiez. Chaque goutte compte : plus on répare tôt, moins ça coûte. Appelez-nous dès que vous entendez couler là où il ne devrait pas y avoir d'eau."
+        },
+        "story": {
+          "title": "CE QU'EN DISENT NOS CLIENTS",
+          "text": "Une cliente de Laval nous a appelés pour un lavabo qui ne drainait plus. En ouvrant le siphon, on a retrouvé une pièce de bijou qui obstruait la ligne. Réglé en 20 minutes, et elle a pu garder son déjeuner chaud.",
+          "quote": "UN APPEL, UN PRO, ET LE PROBLÈME ÉTAIT RÉGLÉ AVANT FIN D'APRÈS-MIDI.",
+          "attribution": "— Cliente à Laval"
+        },
+        "faq": [
+          {
+            "q": "Combien de temps prend une réparation standard ?",
+            "a": "La plupart des réparations résidentielles prennent entre 30 minutes et deux heures. On vous donne une estimation à l'arrivée et on ne touche à rien avant votre feu vert."
+          },
+          {
+            "q": "Vos plombiers viennent-ils avec les pièces au camion ?",
+            "a": "Oui. Nos camions sont équipés des pièces les plus courantes : cartouches, joints, vannes, siphons, raccords. Dans la grande majorité des cas, la réparation est finie en une seule visite."
+          },
+          {
+            "q": "Que faire si mon eau est coupée en attendant ?",
+            "a": "Fermez la vanne d'arrêt principale, idéalement près du compteur, et évacuez l'eau résiduelle. Si vous ne la trouvez pas, appelez-nous : on vous guide au téléphone jusqu'à l'arrivée."
+          },
+          {
+            "q": "Travaillez-vous les fins de semaine et les jours fériés ?",
+            "a": "Oui. Notre équipe est disponible 24 h/24, 7 j/7, y compris les jours fériés. Pour les urgences, le plus tôt vous appelez, le plus tôt on est chez vous."
+          }
+        ]
+      },
+      "fuites": {
+        "heroTitle": "RÉPARATION DE FUITES À LAVAL ET MONTRÉAL",
+        "intro": "Une tache sur le plafond, un mur qui change de couleur, un compteur qui tourne alors que rien n'est ouvert : il y a une fuite quelque part. Notre priorité, c'est de la trouver — puis de la réparer sans ouvrir toute la maison.",
+        "section1": {
+          "h": "DÉTECTION SANS BRICOLAGE",
+          "p": "On commence par les tests simples : pression du système, compteur, caméra sous-évier. Quand la fuite est cachée dans un mur ou sous une dalle, on utilise la détection par caméra et l'infrarouge pour la localiser au centimètre près, avant de couper quoi que ce soit."
+        },
+        "section2": {
+          "h": "RÉPARATION DURABLE, PAS UN PANSEMENT",
+          "p": "Remplacer un raccord fatigué, isoler une jonction qui suinte, refaire une section de tuyau en PEX ou en cuivre : on répare la cause, pas la tache. Et on vous montre exactement ce qu'on a fait, avec des photos si besoin."
+        },
+        "story": {
+          "title": "UNE FUITE SOUS LA Dalle, TROUVÉE SANS CASSEMENT",
+          "text": "Un propriétaire de Sainte-Rose avait des murs humides dans le sous-sol. Plutôt que de casser la dalle au hasard, on a fait un test de pression section par section. La fuite était dans un raccord de branchement : réparée en moins de trois heures, un seul trou dans la dalle.",
+          "quote": "ILS ONT TROUVÉ LA FUITE SANS DÉTRUIRE MON SOUS-SOL. ÇA, ÇA VAUT DE L'OR.",
+          "attribution": "— Propriétaire à Sainte-Rose"
+        },
+        "faq": [
+          {
+            "q": "Comment savoir si j'ai une fuite cachée ?",
+            "a": "Signes classiques : compteur qui tourne sans usage, taches humides, moisissure, pression d'eau qui baisse, bruit de couler dans les murs. Un seul de ces signes mérite un appel."
+          },
+          {
+            "q": "La détection de fuite est-elle coûteuse ?",
+            "a": "Le diagnostic est fait avant le travail, et on vous donne un prix ferme pour la réparation avant de commencer. Si la fuite n'est pas à nous de la réparer (par exemple un côté municipal), on vous le dit tout de suite."
+          },
+          {
+            "q": "Peut-on éviter que la fuite revienne ?",
+            "a": "Dans presque tous les cas, oui : on remplace la section ou le raccord fatigué plutôt que de le re-serrer. On vous explique aussi ce qui a causé la fuite pour surveiller les points sensibles."
+          },
+          {
+            "q": "Que faire en attendant l'arrivée de l'équipe ?",
+            "a": "Fermez la vanne d'arrêt locale (ou la principale), placez un bac sous la fuite et essuyez le reste. Si l'eau s'infiltre dans un mur ou un plafond, coupez le courant de la zone concernée."
+          }
+        ]
+      },
+      "chauffe-eau": {
+        "heroTitle": "CHAUFFE-EAU : RÉPARATION ET INSTALLATION",
+        "intro": "Un chauffe-eau qui lâche, c'est toute la maison qui attend. On répare, on remplace et on installe — chauffe-eau à réservoir, sans réservoir ou instantanés — avec un devis clair avant de toucher à quoi que ce soit.",
+        "section1": {
+          "h": "RÉPARATION OU REMPLACEMENT : ON VOUS DIT VRAI",
+          "p": "Une anode sacrificielle à remplacer, une soupape à changer, un élément chauffant fatigué : certaines réparations valent la peine. Mais un réservoir de 15 ans qui corrode par l'intérieur n'attendra pas le bon moment : on vous dit honnêtement quand il est temps de remplacer."
+        },
+        "section2": {
+          "h": "INSTALLATION PROPRE, EN UNE JOURNÉE",
+          "p": "Démolition de l'ancien, raccords neufs, vanne d'arrêt, anode, calage, mise en pression, test : on s'occupe de tout. Et si votre installation le permet, on vous présente l'option sans réservoir pour réduire votre facture d'eau et d'énergie."
+        },
+        "story": {
+          "title": "UN DIMANCHE SOIR SANS EAU CHAUDE",
+          "text": "Le chauffe-eau d'une famille de Laval a fui en pleine soirée. L'équipe de garde est partie avec un réservoir au camion : installation finie avant le coucher des enfants, et la famille a pu doucher normalement le lendemain matin.",
+          "quote": "APPELÉ UN DIMANCHE, SE DOUCHER LE MATIN SUIVANT. INCROYABLE.",
+          "attribution": "— Famille de Laval"
+        },
+        "faq": [
+          {
+            "q": "Quel est l'âge moyen d'un chauffe-eau ?",
+            "a": "Entre 10 et 15 ans, selon l'usage et la dureté de l'eau. Passé 12 ans, une anode en bon état et un entretien annuel prolongent la vie, mais il faut s'attendre au remplacement."
+          },
+          {
+            "q": "Réservoir ou sans réservoir : lequel choisir ?",
+            "a": "Le réservoir reste le choix le plus simple et le plus économique à l'achat. Le sans réservoir chauffe à la demande : plus d'espace, plus d'efficience, mais un investissement initial plus élevé. On évalue votre installation avant de recommander."
+          },
+          {
+            "q": "Pouvez-vous installer dans un petit espace ?",
+            "a": "Oui. On dimensionne l'appareil selon l'espace disponible et on adapte les raccords. C'est justement pour ça qu'on visite avant de commander l'équipement."
+          },
+          {
+            "q": "L'ancien chauffe-eau, qui l'enlève ?",
+            "a": "On. Le démontage, l'enlèvement et l'élimination de l'ancien appareil font partie du travail, sans frais cachés."
+          }
+        ]
+      },
+      "salles-de-bain": {
+        "heroTitle": "RÉNOVATION DE SALLES DE BAIN À MONTRÉAL",
+        "intro": "Une salle de bain, c'est 80 % de plomberie et 20 % de style. On s'occupe des deux : démolition, nouveaux équipements, fixation des accessoires, drainage, et un chantier propre chaque soir. Vous choisissez le style, on s'occupe des tuyaux.",
+        "section1": {
+          "h": "CE QUI EST INCLUS DANS NOTRE TRAVAIL",
+          "p": "Déplacement ou remplacement des branchements, installation de la baignoire ou du bac à douche, de la toilette, du lavabo et des accessoires, raccords de sol, siphons, vannes d'arrêt, niveau et pente du drain : on vérifie tout, du premier raccord au dernier test d'eau."
+        },
+        "section2": {
+          "h": "UN CHANTIER ORGANISÉ, ZÉRO SURPRISE",
+          "p": "Avant de commencer, on passe en revue chaque étape avec vous et on fixe le devis. Pendant les travaux, on couvre les planchers, on protège les accès et on balaye chaque soir. Vous savez toujours où on en est — et ce qui arrive demain."
+        },
+        "story": {
+          "title": "UNE SALLE DE BAIN FAMILIALE, RÉNOVÉE EN DEUX SEMAINES",
+          "text": "Un couple de Brossard voulait moderniser la salle de bain principale : nouveau bac à douche, nouvelle toilette, plan de travail. On a déplacé les branchements, ajusté la pente du drain et installé l'ensemble en deux semaines, selon l'horaire promis.",
+          "quote": "DEUX SEMAINES, ZÉRO SURPRISE, ET UNE SALLE DE BAIN QUI FAIT PLAISIR.",
+          "attribution": "— Couple de Brossard"
+        },
+        "faq": [
+          {
+            "q": "Combien de temps prend une rénovation de salle de bain ?",
+            "a": "Selon l'ampleur : de quelques jours pour un remplacement d'accessoires à deux ou trois semaines pour une rénovation complète. On fixe l'horaire dans le devis, et on le respecte."
+          },
+          {
+            "q": "Faut-il que je choisisse tous les accessoires avant les travaux ?",
+            "a": "C'est l'idéal. On vous accompagne dans le choix (dimensions, types de fixation, drainage) pour éviter les mauvaises surprises. Si vous n'avez pas encore décidé, on vous donne des repères concrets."
+          },
+          {
+            "q": "Gérez-vous la démolition et les débris ?",
+            "a": "Oui, la démolition et l'enlèvement des débris sont inclus dans le devis. Le chantier est laissé propre chaque soir."
+          },
+          {
+            "q": "Que faire si on découvre un problème en cours de route ?",
+            "a": "On s'arrête, on vous montre, on vous explique le coût et on attend votre décision. Aucun travail supplémentaire sans votre accord écrit."
+          }
+        ]
+      },
+      "drainage": {
+        "heroTitle": "DÉSOBSTRUCTION ET DRAINAGE À MONTRÉAL",
+        "intro": "Un évier qui se vide au compte-gouttes, une toilette qui fait des bulles, une odeur d'égout au sous-sol : votre drainage vous parle. On nettoie, on inspecte et on répare les drains, éviers et lignes d'égout, avec le bon outil pour chaque travail.",
+        "section1": {
+          "h": "NETTOYAGE, INSPECTION, RÉPARATION",
+          "p": "Un ressort mécanique pour les bouchons simples, hydrojetage pour les dépôts de gras et de minéraux, caméra d'inspection pour voir exactement ce qui se passe dans la ligne. On ne devine pas : on regarde, puis on répare ce qui doit l'être."
+        },
+        "section2": {
+          "h": "LES RACINES, NOTRE PIRE ENNEMI (ET LE VÔTRE)",
+          "p": "Dans les quartiers plus vieux de Montréal et de Laval, les racines trouvent le moindre raccord. On les coupe, on nettoie la section et on répare le point d'intrusion pour que le problème ne revienne pas la saison suivante."
+        },
+        "story": {
+          "title": "UN ÉGOUT PRINCIPAL BOUCHÉ, DÉGAGÉ EN UNE VISITE",
+          "text": "Le sous-sol d'une maison de Dollard était inondé après une pluie. Inspection vidéo : une racine envahissait le branchement principal. Hydrojetage, coupe de la racine et réparation du raccord : l'eau est partie, et le client a retrouvé son sous-sol sec le jour même.",
+          "quote": "SOUS-SOL INONDÉ LE MATIN, SEC LE SOIR. ÇA, C'EST UN SERVICE.",
+          "attribution": "— Propriétaire à Dollard-Des-Ormeaux"
+        },
+        "faq": [
+          {
+            "q": "Quel est le différence entre un drain bouché et une ligne endommagée ?",
+            "a": "Un drain bouché se vide lentement et se dégage souvent par un ressort mécanique. Une ligne endommagée (effondrement, intrusion de racines, raccord cassé) donne des retours d'eau, des odeurs persistantes et des problèmes qui reviennent. Une inspection caméra donne une réponse nette."
+          },
+          {
+            "q": "L'hydrojetage abîme-t-il les vieux tuyaux ?",
+            "a": "Bien réglé, non. On ajuste la pression au diamètre et à l'âge de la ligne. Pour les lignes en terre cuite très fatiguées, on vous le dit avant et on propose l'option la plus sécuritaire."
+          },
+          {
+            "q": "À quelle fréquence faut-il entretenir son drainage ?",
+            "a": "Tous les deux à trois ans pour une résidence, plus souvent si vous avez des arbres matures près des branchements. Un entretien régulier coûte moins cher qu'une urgence de nuit."
+          },
+          {
+            "q": "Quoi ne jamais verser dans un drain ?",
+            "a": "Le gras de cuisine, les cotonnes, les solvants et les « déboucheurs » chimiques aggressifs. L'eau chaude et un entretien régulier suffisent presque toujours — et sinon, appelez-nous."
+          }
+        ]
+      },
+      "urgences": {
+        "heroTitle": "URGENCE PLOMBERIE 24/7",
+        "intro": "Une pipe qui éclate à 2 h du matin, un égout qui remonte dans la douche, une eau qui coule là où elle ne devrait pas : les urgences n'attendent pas les heures d'ouverture. Nous non plus. Notre équipe de garde se déplace 24 h/24, 7 j/7.",
+        "section1": {
+          "h": "CE QUI EST VRAIMENT UNE URGENCE",
+          "p": "Fuite importante, rupture de pipe, dégât d'eau actif, égout qui remonte, chauffe-eau qui fuit, perte d'eau chaude totale : ce sont des urgences. On priorise les appels selon la gravité et on vous dit honnêtement si votre situation peut attendre au matin — ou pas."
+        },
+        "section2": {
+          "h": "QUE FAIRE EN ATTENDANT L'ÉQUIPE",
+          "p": "Fermez la vanne d'arrêt principale (près du compteur d'eau), coupez le courant de la zone humide, évacuez l'eau si vous pouvez le faire en sécurité. Et appelez-nous : un plombier au téléphone peut souvent contenir les dégâts jusqu'à l'arrivée."
+        },
+        "story": {
+          "title": "UNE RUPTURE À 2 H DU MATIN, MAÎTRISÉE EN 45 MINUTES",
+          "text": "Un raccord de branchement a éclaté dans un condo de Laval, un mardi de janvier, vers 2 h du matin. L'équipe de garde est arrivée en 40 minutes : vanne fermée, section remplacée, système remis en pression. Le dégât d'eau s'est arrêté avant de faire des dégâts sérieux.",
+          "quote": "APPELÉ À 2 H, PROBLÈME RÉSOLU À 3 H. JE DORMIRAI MEILLEUR CE HIVER.",
+          "attribution": "— Syndic de condo à Laval"
+        },
+        "faq": [
+          {
+            "q": "Y a-t-il des frais de sortie de nuit ou de fin de semaine ?",
+            "a": "Notre tarif d'urgence est appliqué de façon transparente et annoncé avant le départ de l'équipe. On vous le dit clairement au téléphone, sans surprise au moment de la facture."
+          },
+          {
+            "q": "En combien de temps l'équipe arrive-t-elle ?",
+            "a": "Selon l'endroit dans le grand Montréal, comptez en général entre 30 et 90 minutes. On vous donne une fenêtre d'arrivée précise dès qu'un camion est en route."
+          },
+          {
+            "q": "Quelque chose fuit, dois-je couper le courant ?",
+            "a": "Oui, si l'eau atteint une prise, un panneau ou un appareil électrique. Coupez l'alimentation de la zone concernée au disjoncteur, puis appelez-nous."
+          },
+          {
+            "q": "Travaillez-vous pendant les tempêtes d'hiver ?",
+            "a": "Oui. Les pires jours de l'hiver sont souvent nos jours les plus occupés : les tuyaux gelés n'attendent pas le dégel. On reste disponible, et on vous recommande d'isoler vos tuyaux exposés avant la prochaine tempête de froid."
+          }
+        ]
+      },
+      "installation": {
+        "heroTitle": "INSTALLATION DE PLOMBERIE RÉSIDENTIELLE",
+        "intro": "Nouvelle robinetterie, adoucisseur d'eau, système de filtration, branchement d'appareil ou chantier neuf : une bonne installation se voit des années plus tard. On installe droit, on teste, on vous montre.",
+        "section1": {
+          "h": "INSTALLATIONS QU'ON FAIT TOUS LES JOURS",
+          "p": "Robinetterie, éviers, toilettes, laveuses et sécheuses, chauffe-eau, adoucisseurs et filtres à eau, pompes de sous-sol, raccords de cuivre et de PEX. Pour un chantier neuf, on planifie le tracé avec vos ouvriers pour que chaque accès soit au bon endroit."
+        },
+        "section2": {
+          "h": "TESTÉ, ÉTIQUETÉ, GARANTI",
+          "p": "Chaque installation est testée en pression avant d'être couverte ou recouverte. On vous remet un résumé des travaux et des garanties applicables. Si une question se pose dans les semaines qui suivent, un simple coup de fil suffit."
+        },
+        "story": {
+          "title": "UN ADoucisseur D'EAU, INSTALLÉ EN UNE MATINÉE",
+          "text": "Un couple de Vaudreuil-Dorion voulait un adoucisseur pour protéger sa plomberie et sa nouvelle machine à laver. Installation complète — branchement, drainage, vanne, réglage de la dureté — terminée en une matinée, avec une démonstration de la commande.",
+          "quote": "INSTALLÉ EN UNE MATINÉE, EXPLIQUÉ DE FAÇON SIMPLE. UNE RARÉTÉ DE NOS JOURS.",
+          "attribution": "— Couple de Vaudreuil-Dorion"
+        },
+        "faq": [
+          {
+            "q": "Travaillez-vous avec les autres entrepreneurs d'un chantier ?",
+            "a": "Absolument. On planifie le tracé de la plomberie avec les électriciens et les contremaîtres, et on s'adapte aux horaires de chantier. C'est un des aspects du travail commercial qui nous plaît le plus."
+          },
+          {
+            "q": "Quels matériaux utilisez-vous ?",
+            "a": "Cuivre, PEX et PVC selon l'application et les codes en vigueur. On vous explique les avantages de chaque option et on vous laisse choisir dans le cadre du devis."
+          },
+          {
+            "q": "Vos installations sont-elles garanties ?",
+            "a": "Oui. On vous remet les garanties du manufacturier et de l'installation, par écrit, au moment de la livraison du travail."
+          },
+          {
+            "q": "Peut-on installer pendant qu'on habite la maison ?",
+            "a": "Oui, c'est même la majorité de nos travaux. On protège les planchers, on limite la poussière et on nettoie chaque soir. Pour les travaux plus importants, on propose des horaires qui respectent la vie de famille."
+          }
+        ]
+      }
+    }
+  },
+  "about": {
+    "heroTitle": "À PROPOS DE PRO DU TUYAU",
+    "storyKicker": "DEPUIS 1994, LA MÊME FAMILLE, LA MÊME EXIGENCE",
+    "story1": "Pro du Tuyau est né à Laval, en 1994, avec un camion, deux valises à outils et une conviction simple : un travail bien fait se remarque, et un client content en amène d'autres. Trente ans plus tard, la famille est toujours aux commandes, et la conviction est intacte.",
+    "story2": "Aujourd'hui, notre équipe de plombiers licenciés couvre Laval, Montréal, la Rive-Sud et la Rive-Nord. Résidentiel comme commercial, de la petite réparation au chantier complet, on applique la même règle : on arrive à l'heure, on explique avant de commencer, et on laisse le chantier propre.",
+    "block1": {
+      "title": "ÉQUIPE LICENCIÉE ET ASSURÉE",
+      "text": "Chaque plombier de l'équipe est licencié et assuré. On travaille selon les normes en vigueur, on respecte les codes et on vous remet les documents qui vont avec. Vos assurances et votre paix d'esprit, on s'en occupe."
+    },
+    "block2": {
+      "title": "UNE ENTREPRISE FAMILIALE",
+      "text": "Pro du Tuyau est une entreprise familiale, et ça se voit : on répond au téléphone, on se souvient de vos noms, et on revient vérifier nos travaux sans qu'on nous le demande. Merci à ceux qui nous font confiance depuis des décennies."
+    },
+    "ctaTitle": "PARLONS DE VOTRE PROJET",
+    "ctaText": "Une question, un projet, une urgence ? On répond vite, et on vous dit toujours la vérité sur le travail.",
+    "ctaBtn": "Prendre rendez-vous"
+  },
+  "schedule": {
+    "heroTitle": "PRENDRE RENDEZ-VOUS",
+    "helpPill": "ON EST LÀ POUR VOUS",
+    "panelTitle": "CHOISISSEZ UN HORAIRE QUI VOUS CONVIENT",
+    "intro": "Choisissez un jour et une période, puis laissez-nous vos coordonnées. On confirme votre rendez-vous par téléphone ou par courriel dans la journée.",
+    "selectFor": "Sélectionner un horaire pour",
+    "slots": [
+      "8 h – 10 h",
+      "10 h – 12 h",
+      "13 h – 15 h",
+      "15 h – 17 h",
+      "17 h – 19 h"
+    ],
+    "form": {
+      "title": "VOS COORDONNÉES",
+      "name": "Nom complet",
+      "phone": "Téléphone",
+      "email": "Courriel",
+      "service": "Service souhaité",
+      "message": "Message (optionnel)",
+      "submit": "Confirmer le rendez-vous",
+      "selected": "Rendez-vous le {day} de {slot}",
+      "success": "Merci ! Votre demande de rendez-vous a bien été reçue. Nous vous contacterons dans la journée pour confirmer.",
+      "error": "Une erreur est survenue. Réessayez ou appelez-nous au 438 399 3014.",
+      "phoneNote": "Urgence ? Appelez directement le 438 399 3014."
+    }
+  },
+  "contact": {
+    "heroTitle": "CONTACT",
+    "intro": "Une question, un devis, une urgence ? Le plus simple, c'est de nous appeler. On répond 24/7, et on vous rappelle si on est sur un chantier.",
+    "infoTitle": "INFORMATIONS",
+    "infoPhone": "Téléphone",
+    "infoHours": "Horaire",
+    "infoHoursValue": "Ouvert 24/7 — 365 jours par année",
+    "infoAreas": "Aires de service",
+    "infoAreasValue": "Laval, Montréal, Longueuil, Brossard et le grand Montréal",
+    "formTitle": "ÉCRIVEZ-NOUS",
+    "form": {
+      "name": "Nom complet",
+      "email": "Courriel",
+      "phone": "Téléphone",
+      "message": "Message",
+      "submit": "Envoyer le message",
+      "success": "Merci ! Votre message a bien été envoyé. Nous vous répondrons au plus vite.",
+      "error": "Une erreur est survenue. Réessayez ou appelez-nous au 438 399 3014."
+    }
+  },
+  "notFound": {
+    "kicker": "404",
+    "title": "CE TUYAU MÈNE NULLE PART",
+    "text": "La page que vous cherchez n'existe plus, ou le lien est mal branché. Reprenez le bon tuyau :",
+    "ctaHome": "Retour à l'accueil",
+    "ctaSchedule": "Prendre rendez-vous"
+  }
+}
