@@ -1,0 +1,120 @@
+@import 'tailwindcss';
+
+@config '../../../tailwind.config.js';
+
+/* ── Base ─────────────────────────────────────────────────────────────── */
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 6rem;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: #f5f4f3;
+  color: #1a191b;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Display type (heavy condensed uppercase) ─────────────────────────── */
+
+.display {
+  font-family: 'Anton', 'Impact', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: -0.01em;
+  line-height: 0.98;
+}
+
+/* Outlined display title used over photos (service/schedule/about heroes) */
+.display-outline {
+  font-family: 'Anton', 'Impact', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 0.98;
+  color: #1a191b;
+  -webkit-text-stroke: 2px #ffffff;
+  paint-order: stroke fill;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.35);
+}
+
+/* Ghost/watermark heading (testimonials section) */
+.display-ghost {
+  font-family: 'Anton', 'Impact', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 0.95;
+  color: transparent;
+  -webkit-text-stroke: 1.5px rgba(26, 25, 27, 0.14);
+}
+
+.display-ghost-light {
+  font-family: 'Anton', 'Impact', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 0.95;
+  color: transparent;
+  -webkit-text-stroke: 2px rgba(255, 255, 255, 0.22);
+}
+
+/* Nav-style condensed (Bebas Neue) */
+.nav-type {
+  font-family: 'Bebas Neue', 'Anton', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+/* ── Texture helpers ──────────────────────────────────────────────────── */
+
+.tex-dark {
+  background-color: #171516;
+  background-image: url('/img/texture-concrete-dark.png');
+  background-repeat: repeat;
+  background-size: 420px 420px;
+}
+
+.tex-panel {
+  background-color: #211f21;
+  background-image: url('/img/texture-concrete-panel.png');
+  background-repeat: repeat;
+  background-size: 420px 420px;
+}
+
+.tex-red {
+  background-color: #c9272b;
+  background-image: url('/img/texture-concrete-dark.png');
+  background-repeat: repeat;
+  background-size: 420px 420px;
+  background-blend-mode: multiply;
+}
+
+/* ── Scroll reveal ────────────────────────────────────────────────────── */
+
+[data-reveal] {
+  opacity: 0;
+  transform: translateY(22px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+  will-change: opacity, transform;
+}
+
+[data-reveal].is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  [data-reveal] {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}
