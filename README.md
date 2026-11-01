@@ -42,6 +42,19 @@ npx nuxi typecheck
 npm run lint
 ```
 
+### Docker (build 2 étapes, image de prod autonome)
+
+```bash
+docker build -t produtuyeau:latest .
+docker run --rm -p 3000:3000 produtuyeau:latest   # http://localhost:3000
+```
+
+Le stage de build définit `npm_config_dangerously-allow-all-scripts=true`
+: npm ≥ 12 bloque par défaut les scripts d'installation des dépendances, et
+`sharp` (via `ipx`/`@nuxt/image`) a besoin de son script pour récupérer le
+binaire natif — sans quoi les transformations `/_ipx` renvoient 500 pendant
+le prerendering et le build échoue.
+
 ### Tester le formulaire de rendez-vous
 
 ```bash
