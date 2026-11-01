@@ -5,6 +5,11 @@ WORKDIR /app
 
 RUN npm install -g npm@latest
 
+# npm >= 12 blocks dependency install scripts by default (allow-scripts
+# allowlist). sharp needs its install script to fetch the native binary
+# (libvips + prebuild), otherwise _ipx image transforms 500 at build time.
+ENV npm_config_dangerously-allow-all-scripts=true
+
 # Install dependencies first (layer cache)
 COPY package*.json ./
 RUN npm install
