@@ -67,6 +67,16 @@ curl -i -X POST http://localhost:4344/api/rdv \
 
 Les demandes sont persistées dans `server/data/rdv.json` (à ignorer pour la démo).
 
+### Endpoint de santé (Kubernetes)
+
+`GET /healthz` — probe de liveness/readiness pour Kubernetes :
+
+- `200 {"status":"ok","requests":N}` — tout va bien (N = demandes persistées)
+- `200 {"status":"degraded"}` — `rdv.json` corrompu (l'API se répare à la prochaine écriture ; le pod reste actif)
+- `503 {"status":"error","reason":…}` — répertoire de données non écriturable
+
+En Kubernetes, monter un volume (`emptyDir` ou `PVC`) sur `DATA_DIR` (défaut `./server/data`) pour que les demandes survivent aux redémarrages.
+
 ## Routes
 
 | Route FR | Route EN | Contenu |
